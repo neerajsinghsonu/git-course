@@ -2,6 +2,15 @@
 Git tutorial command and test, personal use.
 
 this ine added by following commands
-git addd README.md
+```git
+git add README.md
 git commit -m "first commit from local"
-git push main
+git push
+```
+
+this ine updated by following commands
+```git
+git add README.md
+git commit -m "first update from local"
+git push
+```
