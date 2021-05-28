@@ -51,5 +51,7 @@ git tag
 git tag -a v1.1 -m "this tag has a label"
 // push created tag to remote
 git push origin v1.0
+// push all tags
+git push origin --tags
 ```
 
